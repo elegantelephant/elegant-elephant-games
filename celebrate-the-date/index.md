@@ -23,7 +23,7 @@ This information is associated with an anonymous identifier tied to your install
 
 ## Advertising
 
-The app displays banner advertising served by a third-party advertising network. That network may use its own identifiers and data practices to select and measure ads, governed by its own privacy policy, separate from this one. Ad content does not have access to the dates, names, or descriptions you've entered in the app.
+The app displays banner advertising served by a third-party advertising network. To show and measure ads, the advertising network's software in the app collects and uses certain information from your device: your IP address (which can be used to estimate your general location), your interactions with the app and ads (such as app launches and taps), diagnostic information about the app's performance, and device identifiers such as the Android advertising ID. This collection happens whenever ads are shown, and the analytics setting in the app does not control it. You can reset or delete your advertising ID in your Android device settings. The network's use of this information is governed by its own privacy policy, separate from this one. Ad content does not have access to the dates, names, or descriptions you've entered in the app.
 
 ## In-App Purchases
 
