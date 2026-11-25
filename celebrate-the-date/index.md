@@ -19,6 +19,8 @@ The dates, names, and descriptions you enter into Celebrate The Date never leave
 
 This information is associated with an anonymous identifier tied to your installation of the app, so we can see patterns in how a given installation is used over time. It is **never** linked to your name, email address, or any other information that could identify you personally, and it cannot be used to reconstruct any specific entry you've made — we never see the actual date, name, or text you typed.
 
+**Your choice:** Anonymous usage analytics is on by default, and you can turn it off at any time in the app's Settings. When it's off, the app sends no analytics and does not send the installation identifier. If you are in a region that requires your consent first, such as the European Union or the United Kingdom, analytics stays off until you agree. Turning off analytics does not remove advertising; ads are removed only through the optional one-time purchase described below.
+
 ## Advertising
 
 The app displays banner advertising served by a third-party advertising network. That network may use its own identifiers and data practices to select and measure ads, governed by its own privacy policy, separate from this one. Ad content does not have access to the dates, names, or descriptions you've entered in the app.
