@@ -23,7 +23,7 @@ This information is associated with an anonymous identifier tied to your install
 
 ## Advertising
 
-The app displays banner advertising served by a third-party advertising network. To show and measure ads, the advertising network's software in the app collects and uses certain information from your device: your IP address (which can be used to estimate your general location), your interactions with the app and ads (such as app launches and taps), diagnostic information about the app's performance, and device identifiers such as the Android advertising ID. This collection happens whenever ads are shown, and the analytics setting in the app does not control it. You can reset or delete your advertising ID in your Android device settings. The network's use of this information is governed by its own privacy policy, separate from this one. Ad content does not have access to the dates, names, or descriptions you've entered in the app.
+The app displays banner advertising served by Google AdMob, a third-party advertising network operated by Google. To show and measure ads, the advertising network's software in the app collects and uses certain information from your device: your IP address (which can be used to estimate your general location), your interactions with the app and ads (such as app launches and taps), diagnostic information about the app's performance, and device identifiers such as the Android advertising ID. This collection happens whenever ads are shown, and the analytics setting in the app does not control it. You can reset or delete your advertising ID in your Android device settings. Google's use of this information is governed by [Google's Privacy Policy](https://policies.google.com/privacy), separate from this one. Ad content does not have access to the dates, names, or descriptions you've entered in the app.
 
 ## In-App Purchases
 
@@ -44,7 +44,7 @@ When you use the app, you may enter dates and descriptions related to yourself a
 
 ## Data Sharing
 
-We do not sell your data. We do not share the anonymous usage analytics described above except as needed to operate and measure the app (for example, with an analytics service provider acting on our behalf). The advertising network that serves ads in the app operates under its own separate privacy policy and may collect its own data for ad delivery and measurement, independent of anything we collect. Purchase processing is handled by Google Play under its own separate privacy policy, as described above.
+We do not sell your data. We do not share the anonymous usage analytics described above except as needed to operate and measure the app (for example, with an analytics service provider acting on our behalf). Google AdMob, which serves ads in the app, operates under Google's own separate privacy policy and may collect its own data for ad delivery and measurement, independent of anything we collect. Purchase processing is handled by Google Play under its own separate privacy policy, as described above.
 
 ## Data Storage & Security
 
